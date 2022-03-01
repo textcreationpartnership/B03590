@@ -1,0 +1,237 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act the Faculty of Chirurgeon[s] of Glasgow, in favours of the poor diseased people within their jurisdiction.</title>
+            <author>Glasgow (Scotland). Faculty of Chirurgeons.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03590</idno>
+            <idno type="STC">Wing G843A</idno>
+            <idno type="STC">ESTC R177427</idno>
+            <idno type="EEBO-CITATION">52211830</idno>
+            <idno type="OCLC">ocm 52211830</idno>
+            <idno type="VID">175682</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03590)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175682)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2745:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act the Faculty of Chirurgeon[s] of Glasgow, in favours of the poor diseased people within their jurisdiction.</title>
+                  <author>Glasgow (Scotland). Faculty of Chirurgeons.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Glasgow :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>Imperfect: cropped, tightly bound with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poor --  Medical care --  Law and legislation --  Scotland --  Glasgow --  Early works to 1800.</term>
+               <term>Glasgow (Scotland) --  History --  17th century --  Sources.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:175682:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 16 -->
+            <head>ACT</head>
+            <head type="sub">The Faculty of Chirurgeon of GLASGOW, in Favours of the Poor Diſeaſed People within their Juriſdiction.</head>
+            <p>AT <hi>GLASGOW</hi> the ſeventh day of <hi>March,</hi> One thouſand ſix hundred and ninety eight ye<gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the whilk day, Doctor <hi>Peter Patoun</hi> Phyſician, Preſes and Aſſeſſor to the Faculty, <hi>Jan. Weir</hi> Chirurgeon-Apothecary preſent Viſitor, and remanent Members of the Chirurgeons <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Pharmacians of <hi>Glaſgow</hi> being Conveen'd, and taking to their Conſideration, that one of <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>auſes, for which His MAJESTY of ever bleſſed Memory, <hi>JAMES</hi> the ſixth King of <hi>Scots,</hi> by <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oyal Gift, of the Date the penult day of <hi>November,</hi> One thouſand five hundred and ninety nine y<gap reason="illegible: damage" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ranted in Favours of the ſaid Faculty of Chirurgeons and Pharmacians, the Priviledges and Immun<gap reason="illegible: damage" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ey now Enjoy; is, that the ſaid Faculty ſhould, with the Aſſiſtance of a Phyſician Aſſeſſor, Com<gap reason="illegible: damage" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>cate their Advice <hi>Gratis,</hi> the firſt <hi>Munday</hi> of each Moneth in the Year, to every poor diſeaſed <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, who ſhould apply to them, who had Reſidence within their Juriſdiction, and had Teſtimonials fro<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir Miniſters or Elders, of the reſpective Paroches where they Lived; With which the Members of <gap reason="illegible: damage" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>
+               <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lty Reſidenters at <hi>Glaſgow,</hi> have not only heretofore Complyed, and given Obedience to; But alſo in <gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gard, there are diverſe and ſundry Members of Faculty, whoſe Reſidence are promiſcuouſly, through th<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: page cropped" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>eral parts of the Faculties Juriſdiction in the Countrey, who by their Admiſſion, and Acts of Fac<gap reason="illegible: damage" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> 
+               <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which they are lyable; are oblig'd to Communicate their Advice to the Poor of the reſpective Paroc<gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here they Live, the firſt <hi>Munday</hi> of each Moneth <hi>Gratis,</hi> which heretofore hath not been practicab<gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Countrey. And the Faculty being reſolved, that the Poor diſeaſed in the Countrey, ſhould not b<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſtitute of Advice, more than theſe of the City of <hi>Glaſgow.</hi> Therefore, it is Statute and Ordain<gap reason="illegible: damage" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> 
+               <gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap>hat the Faculty at <hi>Glaſgow,</hi> ſhould not only Continue in their Cuſtome of Conveening, each fir<gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>unday</hi> of ilk Moneth of the Year, at their publick Hall, to Viſit and give Advice to every poor Di<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: page cropped" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſed Perſon (within the City of <hi>Glaſgow,</hi> or the Faculties Juriſdiction) <hi>Gratis,</hi> who ſhall apply <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em at their ſaid Hall, within the ſaid City for their Advice, having Teſtimonials from the Miniſters <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ders where they Live. But ſicklike, That every Member of Faculty living in the Countrey or any her Burgh, within the Faculties Precincts (which Comprehends the Shires of <hi>Lanrick, Dumba<gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: page cropped" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>m, Ranfrew</hi> and <hi>Aire:</hi> Comprehending <hi>Kyll, Carrick</hi> and <hi>Cunningham</hi>) ſhall be hereby Boun<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d Oblig'd, to Attend the ſaid firſt Day of every Moneth in the Year, at their reſpective Dwelling <gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uſes; And ſhall be Oblig'd to Communicate their Advice <hi>Gratis,</hi> according to the Qualifications of <gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir reſpective Admiſſions, to the Poor ſo applying to them by Teſtimonials as ſaid is. And Ordains <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Preſents to be Printed and Publiſhed at the whole Paroch-Churches within the Faculties Juriſdiction, at the Poor Diſeaſed may be advertiſed hereof.</p>
+            <closer>
+               <signed>Extracted forth of the Records of the ſaid Faculty, by me <hi>Robert Robertſon,</hi> Clerk of the Facul<gap reason="illegible: page cropped" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
